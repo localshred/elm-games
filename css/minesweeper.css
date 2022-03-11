@@ -57,18 +57,24 @@
 .game.minesweeper .beginner .square {
   width: 35px;
   height: 35px;
+  min-width: 35px;
+  min-height: 35px;
   font-size: 30px;
 }
 
 .game.minesweeper .intermediate .square {
   width: 30px;
   height: 30px;
+  min-width: 30px;
+  min-height: 30px;
   font-size: 25px;
 }
 
 .game.minesweeper .advanced .square {
   width: 30px;
   height: 30px;
+  min-width: 30px;
+  min-height: 30px;
   font-size: 20px;
 }
 

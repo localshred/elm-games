@@ -1,5 +1,6 @@
 @import "pure.css";
 @import "minesweeper.css";
+@import "tic-tac-toe.css";
 
 body {
   font-family: "Georgia", serif;
@@ -67,15 +68,15 @@ footer {
   display: -webkit-flex;
   display: flex;
 
-	justify-content: flex-start;
-	-webkit-justify-content: flex-start;
+  justify-content: flex-start;
+  -webkit-justify-content: flex-start;
 
-	align-items: space-around;
-	align-content: flex-start;
+  align-items: space-around;
+  align-content: flex-start;
 
-	box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
 }
 
 .row-item {
